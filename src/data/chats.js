@@ -1,0 +1,32 @@
+export const chats = [
+  {
+    id: 1,
+    name: 'Luis - Github',
+    message: 'Hey! I have a question...',
+    time: '45m',
+    unread: false,
+    email: 'luis@github.com',
+    company: 'GitHub',
+    status: 'Premium User',
+  },
+  {
+    id: 2,
+    name: 'Ivan - Nike',
+    message: 'Hi there, I need help...',
+    time: '3min',
+    unread: true,
+    email: 'ivan@nike.com',
+    company: 'Nike',
+    status: 'Standard',
+  },
+  {
+    id: 3,
+    name: 'Lead from New York',
+    message: 'Good morning, let me...',
+    time: '46m',
+    unread: false,
+    email: 'lead@nyc.com',
+    company: 'Lead Inc.',
+    status: 'New Lead',
+  },
+];
